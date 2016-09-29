@@ -1,0 +1,129 @@
+wlan0     Scan completed :
+          Cell 01 - Address: E8:4E:06:17:4D:3F
+                    ESSID:"CUCIES-PC"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.412 GHz (Channel 1)
+                    Encryption key:on
+                    Bit Rates:300 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=100/100  Signal level=72/100  
+          Cell 02 - Address: F8:D1:11:FA:B4:8C
+                    ESSID:"CUCIES2"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:on
+                    Bit Rates:300 Mb/s
+                    Extra:wpa_ie=dd160050f20101000050f20401000050f20401000050f202
+                    IE: WPA Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=72/100  Signal level=60/100  
+          Cell 03 - Address: F8:D1:11:FA:D7:10
+                    ESSID:"CUCIES1"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:on
+                    Bit Rates:300 Mb/s
+                    Extra:wpa_ie=dd160050f20101000050f20401000050f20401000050f202
+                    IE: WPA Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=72/100  Signal level=68/100  
+          Cell 04 - Address: EC:17:2F:AD:F3:92
+                    ESSID:"CUC_604C"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:off
+                    Bit Rates:300 Mb/s
+                    IE: Unknown: DD800050F204104A0001101044000101103B0001031047001000000000000010000000EC172FADF3921021000754502D4C494E4B10230009544C2D57523834304E10240003312E3010420003312E301054000800060050F204000110110018576972656C657373204E20526F757465722057523834304E100800020086103C000101
+                    Quality=72/100  Signal level=74/100  
+          Cell 05 - Address: 92:1A:A9:C0:67:CA
+                    ESSID:"CMCC"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:off
+                    Bit Rates:144 Mb/s
+                    Quality=81/100  Signal level=48/100  
+          Cell 06 - Address: 92:1A:A9:C0:67:CB
+                    ESSID:"CMCC-AUTO"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:on
+                    Bit Rates:144 Mb/s
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac010000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    Quality=93/100  Signal level=49/100  
+          Cell 07 - Address: 92:1A:A9:C0:67:CC
+                    ESSID:"CMCC-EDU"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:off
+                    Bit Rates:144 Mb/s
+                    Quality=88/100  Signal level=48/100  
+          Cell 08 - Address: 92:1A:A9:C0:67:CD
+                    ESSID:"CUC"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.437 GHz (Channel 6)
+                    Encryption key:off
+                    Bit Rates:144 Mb/s
+                    Quality=100/100  Signal level=48/100  
+          Cell 09 - Address: 5C:63:BF:2D:A9:84
+                    ESSID:"CUCIES"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.462 GHz (Channel 11)
+                    Encryption key:on
+                    Bit Rates:150 Mb/s
+                    Extra:wpa_ie=dd160050f20101000050f20401000050f20401000050f202
+                    IE: WPA Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Extra:rsn_ie=30140100000fac040100000fac040100000fac020000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    Quality=99/100  Signal level=71/100  
+          Cell 10 - Address: 64:E5:99:2C:07:6E
+                    ESSID:"iptime"
+                    Protocol:IEEE 802.11bgn
+                    Mode:Master
+                    Frequency:2.472 GHz (Channel 13)
+                    Encryption key:on
+                    Bit Rates:150 Mb/s
+                    Extra:wpa_ie=dd180050f20101000050f20401000050f20401000050f2020c00
+                    IE: WPA Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : PSK
+                    IE: Unknown: DD7A0050F204104A00011010440001021041000100103B000103104700104D73C5C27E6B5243D6440AAB1719670B10210006697054494D4510230008697054494D4541501024000A31323334353637383930104200033336301054000800060050F204000110110008697054494D454150100800020084103C000101
+                    Quality=12/100  Signal level=26/100  
+
